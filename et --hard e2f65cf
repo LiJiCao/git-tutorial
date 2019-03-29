@@ -1,0 +1,24 @@
+*   [33mcommit e2f65cf413304f9097381be776a330c320bcef98[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+[31m|[m[32m\[m  Merge: 7a9b729 ea964b6
+[31m|[m [32m|[m Author: LJC <luoliwangzi@163.com>
+[31m|[m [32m|[m Date:   Fri Mar 8 16:25:45 2019 +0800
+[31m|[m [32m|[m 
+[31m|[m [32m|[m     before merge
+[31m|[m [32m|[m 
+[31m|[m * [33mcommit ea964b6d66f3a145a198dac8dbe0d830536f0ecf[m[33m ([m[1;32mfeature-A[m[33m)[m
+[31m|[m[31m/[m  Author: LJC <luoliwangzi@163.com>
+[31m|[m   Date:   Fri Mar 8 16:02:04 2019 +0800
+[31m|[m   
+[31m|[m       Add feautre-A
+[31m|[m 
+* [33mcommit 7a9b729a7e59d7b921c965b7e7642a6494170114[m
+[32m|[m Author: LJC <luoliwangzi@163.com>
+[32m|[m Date:   Fri Mar 8 15:46:02 2019 +0800
+[32m|[m 
+[32m|[m     Add index
+[32m|[m 
+* [33mcommit 9872c9c303888b364e6204b68f9aa4be3c0d79e9[m
+  Author: LJC <luoliwangzi@163.com>
+  Date:   Fri Mar 8 15:22:35 2019 +0800
+  
+      First Commit
