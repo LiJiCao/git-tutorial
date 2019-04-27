@@ -2,11 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d30eaad2-6f09-4516-b8d4-edf056a73a19" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/algorithm/array/pivotIndex.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/algorithm/queue/canVisitAllRooms.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/algorithm/stack/updateMatrix.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algorithm/array/spiralOrder.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algorithm/string/addBinary.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algorithm/string/longestCommonPrefix.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algorithm/string/strStr.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/algorithm/stack/decodeString.js" beforeDir="false" afterPath="$PROJECT_DIR$/algorithm/stack/decodeString.js" afterDir="false" />
     </list>
     <list id="e0322507-1d35-4c89-b631-4298301e0826" name="Add Fix-B" comment="" />
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -21,24 +21,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="openLock.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/algorithm/queue/openLock.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="190">
-              <caret line="10" column="25" selection-start-line="10" selection-start-column="25" selection-end-line="10" selection-end-column="25" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="numsSquare.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/algorithm/queue/numsSquare.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1330">
-              <caret line="70" column="25" selection-start-line="70" selection-start-column="25" selection-end-line="70" selection-end-column="25" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="README.md" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
@@ -78,20 +60,56 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="pivotIndex.js" pinned="false" current-in-tab="true">
+      <file leaf-file-name="pivotIndex.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/algorithm/array/pivotIndex.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="584">
+            <state relative-caret-position="589">
               <caret line="31" column="17" selection-start-line="31" selection-start-column="17" selection-end-line="31" selection-end-column="17" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="isValueBracket.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/algorithm/stack/isValueBracket.js">
+      <file leaf-file-name="findDiagonalOrder.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/algorithm/array/findDiagonalOrder.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="114">
-              <caret line="6" column="3" selection-start-line="6" selection-start-column="3" selection-end-line="6" selection-end-column="3" />
+            <state relative-caret-position="532">
+              <caret line="28" column="11" selection-start-line="28" selection-start-column="11" selection-end-line="28" selection-end-column="11" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="spiralOrder.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/algorithm/array/spiralOrder.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="950">
+              <caret line="50" column="17" selection-start-line="7" selection-start-column="4" selection-end-line="50" selection-end-column="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="addBinary.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/algorithm/string/addBinary.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="570">
+              <caret line="30" column="20" selection-start-line="30" selection-start-column="20" selection-end-line="30" selection-end-column="20" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="longestCommonPrefix.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/algorithm/string/longestCommonPrefix.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-63">
+              <caret line="46" column="18" lean-forward="true" selection-start-line="46" selection-start-column="18" selection-end-line="46" selection-end-column="18" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="strStr.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/algorithm/string/strStr.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="57">
+              <caret line="3" column="3" selection-start-line="3" selection-start-column="3" selection-end-line="3" selection-end-column="3" />
             </state>
           </provider>
         </entry>
@@ -145,6 +163,11 @@
         <option value="$PROJECT_DIR$/algorithm/stack/updateMatrix.js" />
         <option value="$PROJECT_DIR$/algorithm/queue/canVisitAllRooms.js" />
         <option value="$PROJECT_DIR$/algorithm/array/pivotIndex.js" />
+        <option value="$PROJECT_DIR$/algorithm/array/findDiagonalOrder.js" />
+        <option value="$PROJECT_DIR$/algorithm/array/spiralOrder.js" />
+        <option value="$PROJECT_DIR$/algorithm/string/addBinary.js" />
+        <option value="$PROJECT_DIR$/algorithm/string/strStr.js" />
+        <option value="$PROJECT_DIR$/algorithm/string/longestCommonPrefix.js" />
       </list>
     </option>
   </component>
@@ -168,6 +191,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -198,11 +222,16 @@
               <item name="algorithm" type="462c0819:PsiDirectoryNode" />
               <item name="stack" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="git-tutorial" type="b2602c69:ProjectViewProjectNode" />
+              <item name="git-tutorial" type="462c0819:PsiDirectoryNode" />
+              <item name="algorithm" type="462c0819:PsiDirectoryNode" />
+              <item name="string" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -269,6 +298,16 @@
       <workItem from="1555548494444" duration="208000" />
       <workItem from="1555572568408" duration="1655000" />
       <workItem from="1555636205272" duration="615000" />
+      <workItem from="1555735715002" duration="294000" />
+      <workItem from="1555813892491" duration="640000" />
+      <workItem from="1555850203413" duration="2379000" />
+      <workItem from="1555899558304" duration="7000" />
+      <workItem from="1555922605672" duration="2482000" />
+      <workItem from="1556118381963" duration="1236000" />
+      <workItem from="1556155771256" duration="11000" />
+      <workItem from="1556176459767" duration="9000" />
+      <workItem from="1556183765686" duration="607000" />
+      <workItem from="1556241064573" duration="199000" />
     </task>
     <task id="LOCAL-00001" summary="Add Fix-B">
       <created>1552036132447</created>
@@ -288,7 +327,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="61433000" />
+    <option name="totallyTimeSpent" value="69297000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1487" height="878" extended-state="6" />
@@ -361,41 +400,6 @@
     <option name="LAST_COMMIT_MESSAGE" value="Add Fix-B" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/algorithm/array/merge.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1691">
-          <caret line="89" column="2" selection-start-line="89" selection-start-column="2" selection-end-line="89" selection-end-column="2" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/algorithm/array/twoSum.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="532">
-          <caret line="28" column="23" selection-start-line="28" selection-start-column="23" selection-end-line="28" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/algorithm/array/isPalindrome.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="589">
-          <caret line="31" column="12" lean-forward="true" selection-start-line="31" selection-start-column="12" selection-end-line="31" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/algorithm/array/reverseVowels.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="152">
-          <caret line="8" column="10" selection-start-line="8" selection-start-column="10" selection-end-line="8" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/algorithm/array/minSubArrayLen.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="19">
-          <caret line="1" column="11" selection-start-line="1" selection-start-column="11" selection-end-line="1" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
@@ -743,8 +747,43 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/algorithm/array/pivotIndex.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="584">
+        <state relative-caret-position="589">
           <caret line="31" column="17" selection-start-line="31" selection-start-column="17" selection-end-line="31" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/algorithm/array/findDiagonalOrder.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="532">
+          <caret line="28" column="11" selection-start-line="28" selection-start-column="11" selection-end-line="28" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/algorithm/array/spiralOrder.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="950">
+          <caret line="50" column="17" selection-start-line="7" selection-start-column="4" selection-end-line="50" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/algorithm/string/strStr.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="57">
+          <caret line="3" column="3" selection-start-line="3" selection-start-column="3" selection-end-line="3" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/algorithm/string/addBinary.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="570">
+          <caret line="30" column="20" selection-start-line="30" selection-start-column="20" selection-end-line="30" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/algorithm/string/longestCommonPrefix.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-63">
+          <caret line="46" column="18" lean-forward="true" selection-start-line="46" selection-start-column="18" selection-end-line="46" selection-end-column="18" />
         </state>
       </provider>
     </entry>
