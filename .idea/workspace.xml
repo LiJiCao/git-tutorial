@@ -1,12 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list id="e0322507-1d35-4c89-b631-4298301e0826" name="Add Fix-B" comment="" />
     <list default="true" id="d30eaad2-6f09-4516-b8d4-edf056a73a19" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/design-patterns/subscribe.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/design-patterns/proxy.js" beforeDir="false" afterPath="$PROJECT_DIR$/design-patterns/proxy.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
+    <list id="e0322507-1d35-4c89-b631-4298301e0826" name="Add Fix-B" comment="" />
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -64,11 +63,23 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="subscribe.js" pinned="false" current-in-tab="true">
+      <file leaf-file-name="subscribe.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/design-patterns/subscribe.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1748">
-              <caret line="311" column="9" lean-forward="true" selection-start-line="311" selection-start-column="9" selection-end-line="311" selection-end-column="9" />
+            <state relative-caret-position="171">
+              <caret line="228" column="29" lean-forward="true" selection-start-line="228" selection-start-column="29" selection-end-line="228" selection-end-column="29" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="FIRST">
+              <first_editor relative-caret-position="114">
+                <caret line="6" column="27" lean-forward="true" selection-start-line="6" selection-start-column="27" selection-end-line="6" selection-end-column="27" />
+              </first_editor>
+              <second_editor />
             </state>
           </provider>
         </entry>
@@ -104,7 +115,7 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="feature-D" />
+        <entry key="$PROJECT_DIR$" value="master" />
       </map>
     </option>
     <option name="RESET_MODE" value="HARD" />
@@ -141,7 +152,6 @@
         <option value="$PROJECT_DIR$/algorithm/linklist/hasCycle.js" />
         <option value="$PROJECT_DIR$/algorithm/linklist/detectCycle.js" />
         <option value="$PROJECT_DIR$/algorithm/linklist/getIntersectionNode.js" />
-        <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/algorithm/linklist/removeNthFromEnd.js" />
         <option value="$PROJECT_DIR$/algorithm/linklist/reverseList.js" />
         <option value="$PROJECT_DIR$/faster-js/duff.js" />
@@ -156,6 +166,7 @@
         <option value="$PROJECT_DIR$/design-patterns/strategy.js" />
         <option value="$PROJECT_DIR$/design-patterns/proxy.js" />
         <option value="$PROJECT_DIR$/design-patterns/subscribe.js" />
+        <option value="$PROJECT_DIR$/README.md" />
       </list>
     </option>
   </component>
@@ -286,7 +297,7 @@
       <workItem from="1561813286328" duration="1734000" />
       <workItem from="1561944458376" duration="630000" />
       <workItem from="1561991996260" duration="1442000" />
-      <workItem from="1562028776724" duration="12350000" />
+      <workItem from="1562028776724" duration="12741000" />
     </task>
     <task id="LOCAL-00001" summary="Add Fix-B">
       <created>1552036132447</created>
@@ -309,24 +320,41 @@
       <option name="project" value="LOCAL" />
       <updated>1561992777308</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Add subscribe notes">
+      <created>1562054757450</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1562054757451</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="105279000" />
+    <option name="totallyTimeSpent" value="105670000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1479" height="878" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24948025" />
-      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32914925" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
+      <window_info active="true" anchor="bottom" id="Event Log" order="7" sideWeight="0.5003465" side_tool="true" visible="true" weight="0.28033474" />
+      <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Version Control" order="7" weight="0.41283125" />
       <window_info anchor="bottom" id="Run" order="2" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.28033474" />
+      <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.4996535" visible="true" weight="0.28033474" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -335,7 +363,6 @@
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Find" order="1" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -384,7 +411,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Add Fix-B" />
     <MESSAGE value="Add design-patterns notes" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add design-patterns notes" />
+    <MESSAGE value="Add subscribe notes" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add subscribe notes" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/algorithm/array/merge.js">
@@ -671,16 +699,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="FIRST">
-          <first_editor relative-caret-position="95">
-            <caret line="5" column="22" selection-start-line="5" selection-start-column="22" selection-end-line="5" selection-end-column="22" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/algorithm/linklist/removeElements.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="570">
@@ -769,8 +787,18 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/design-patterns/subscribe.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1748">
-          <caret line="311" column="9" lean-forward="true" selection-start-line="311" selection-start-column="9" selection-end-line="311" selection-end-column="9" />
+        <state relative-caret-position="171">
+          <caret line="228" column="29" lean-forward="true" selection-start-line="228" selection-start-column="29" selection-end-line="228" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="114">
+            <caret line="6" column="27" lean-forward="true" selection-start-line="6" selection-start-column="27" selection-end-line="6" selection-end-column="27" />
+          </first_editor>
+          <second_editor />
         </state>
       </provider>
     </entry>
