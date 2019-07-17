@@ -3,16 +3,13 @@
   <component name="ChangeListManager">
     <list id="e0322507-1d35-4c89-b631-4298301e0826" name="Add Fix-B" comment="" />
     <list default="true" id="d30eaad2-6f09-4516-b8d4-edf056a73a19" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/algorithm/hash/containsDuplicate.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/algorithm/hash/intersection.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/algorithm/hash/isHappy.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/algorithm/hash/singleNumber.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/algorithm/hash/twoSum.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/algorithm/linklist/copyRandomList.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/algorithm/linklist/flatten.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/algorithm/linklist/rotateRight.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/design-patterns/command.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/design-patterns/flyweight.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algorithm/array/LongestWPI.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algorithm/hash/FindRestaurant.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algorithm/hash/containsNearbyDuplicate.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algorithm/hash/firstUniqstr.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algorithm/hash/groupAnagrams.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algorithm/hash/intersect.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algorithm/hash/isIsomorphic.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -27,68 +24,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="flyweight.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/design-patterns/flyweight.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2299">
-              <caret line="121" column="5" selection-start-line="121" selection-start-column="5" selection-end-line="121" selection-end-column="5" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="detectCycle.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/algorithm/linklist/detectCycle.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <folding>
-                <element signature="n#!!doc" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="flatten.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/algorithm/linklist/flatten.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1520">
-              <caret line="93" column="35" selection-start-line="93" selection-start-column="35" selection-end-line="93" selection-end-column="35" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="copyRandomList.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/algorithm/linklist/copyRandomList.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="19">
-              <caret line="1" column="18" selection-start-line="1" selection-start-column="18" selection-end-line="1" selection-end-column="18" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="rotateRight.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/algorithm/linklist/rotateRight.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="817">
-              <caret line="49" column="23" selection-start-line="49" selection-start-column="23" selection-end-line="49" selection-end-column="23" />
-              <folding>
-                <element signature="n#!!doc" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="containsDuplicate.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/algorithm/hash/containsDuplicate.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="342">
-              <caret line="19" column="17" selection-start-line="9" selection-start-column="4" selection-end-line="19" selection-end-column="17" />
-              <folding>
-                <element signature="n#!!doc" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="singleNumber.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/algorithm/hash/singleNumber.js">
           <provider selected="true" editor-type-id="text-editor">
@@ -98,29 +33,79 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="intersection.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/algorithm/hash/intersection.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="456">
-              <caret line="24" column="8" selection-start-line="24" selection-start-column="8" selection-end-line="24" selection-end-column="8" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="isHappy.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/algorithm/hash/isHappy.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="266">
-              <caret line="14" column="35" selection-start-line="14" selection-start-column="35" selection-end-line="14" selection-end-column="35" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="twoSum.js" pinned="false" current-in-tab="true">
+      <file leaf-file-name="twoSum.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/algorithm/hash/twoSum.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="3" lean-forward="true" selection-start-column="3" selection-end-column="3" />
+            <state relative-caret-position="475">
+              <caret line="25" column="9" selection-start-line="25" selection-start-column="9" selection-end-line="25" selection-end-column="9" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="LongestWPI.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/algorithm/array/LongestWPI.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1197">
+              <caret line="63" column="2" selection-start-line="63" selection-start-column="2" selection-end-line="63" selection-end-column="2" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="firstUniqstr.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/algorithm/hash/firstUniqstr.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="475">
+              <caret line="25" column="15" selection-start-line="25" selection-start-column="15" selection-end-line="25" selection-end-column="15" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="intersect.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/algorithm/hash/intersect.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="57">
+              <caret line="3" column="36" selection-start-line="3" selection-start-column="36" selection-end-line="3" selection-end-column="36" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="containsNearbyDuplicate.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/algorithm/hash/containsNearbyDuplicate.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="344">
+              <caret line="22" column="28" selection-start-line="22" selection-start-column="28" selection-end-line="22" selection-end-column="28" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="groupAnagrams.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/algorithm/hash/groupAnagrams.js">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file leaf-file-name="FindRestaurant.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/algorithm/hash/FindRestaurant.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="228">
+              <caret line="12" column="8" selection-start-line="12" selection-start-column="8" selection-end-line="12" selection-end-column="8" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="isIsomorphic.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/algorithm/hash/isIsomorphic.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="266">
+              <caret line="14" column="40" selection-start-line="14" selection-start-column="40" selection-end-line="14" selection-end-column="40" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="minSubArrayLen.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/algorithm/array/minSubArrayLen.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="19">
+              <caret line="1" column="11" selection-start-line="1" selection-start-column="11" selection-end-line="1" selection-end-column="11" />
             </state>
           </provider>
         </entry>
@@ -179,6 +164,13 @@
         <option value="$PROJECT_DIR$/algorithm/hash/intersection.js" />
         <option value="$PROJECT_DIR$/algorithm/hash/isHappy.js" />
         <option value="$PROJECT_DIR$/algorithm/hash/twoSum.js" />
+        <option value="$PROJECT_DIR$/algorithm/hash/FindRestaurant.js" />
+        <option value="$PROJECT_DIR$/algorithm/hash/isIsomorphic.js" />
+        <option value="$PROJECT_DIR$/algorithm/array/LongestWPI.js" />
+        <option value="$PROJECT_DIR$/algorithm/hash/firstUniqstr.js" />
+        <option value="$PROJECT_DIR$/algorithm/hash/intersect.js" />
+        <option value="$PROJECT_DIR$/algorithm/hash/containsNearbyDuplicate.js" />
+        <option value="$PROJECT_DIR$/algorithm/hash/groupAnagrams.js" />
       </list>
     </option>
   </component>
@@ -202,6 +194,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -235,7 +228,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -264,6 +256,14 @@
         </RuleState>
       </list>
     </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="LongestWPI.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" nameIsGenerated="true" path-to-js-file="LongestWPI.js" working-dir="$PROJECT_DIR$/algorithm/array" />
+    <recent_temporary>
+      <list>
+        <item itemvalue="Node.js.LongestWPI.js" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -300,7 +300,12 @@
       <workItem from="1555480059739" duration="80000" />
       <workItem from="1562831985879" duration="1582000" />
       <workItem from="1562915690440" duration="5248000" />
-      <workItem from="1563030093279" duration="531000" />
+      <workItem from="1563030093279" duration="1408000" />
+      <workItem from="1563085207503" duration="8053000" />
+      <workItem from="1563172705983" duration="10000" />
+      <workItem from="1563176823833" duration="1915000" />
+      <workItem from="1563290184456" duration="740000" />
+      <workItem from="1563325116165" duration="1211000" />
     </task>
     <task id="LOCAL-00001" summary="Add Fix-B">
       <created>1552036132447</created>
@@ -320,22 +325,31 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="66242000" />
+    <option name="totallyTimeSpent" value="79048000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1479" height="878" extended-state="6" />
+    <frame x="-7" y="-7" width="1480" height="878" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24948025" />
-      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24930748" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32914925" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
-      <window_info anchor="bottom" id="Version Control" order="7" weight="0.41283125" />
+      <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.5003465" side_tool="true" weight="0.41283125" />
+      <window_info anchor="bottom" id="Version Control" order="7" sideWeight="0.4996535" weight="0.29288703" />
       <window_info anchor="bottom" id="Run" order="2" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Terminal" order="7" visible="true" weight="0.38214785" />
+      <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.4996535" weight="0.3816156" />
       <window_info id="Favorites" order="2" side_tool="true" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.264993" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -365,7 +379,7 @@
                   <entry key="branch">
                     <value>
                       <list>
-                        <option value="origin/master" />
+                        <option value="origin/algorithm" />
                       </list>
                     </value>
                   </entry>
@@ -392,55 +406,12 @@
     <MESSAGE value="Add Fix-B" />
     <option name="LAST_COMMIT_MESSAGE" value="Add Fix-B" />
   </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="1" />
+    </breakpoint-manager>
+  </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/algorithm/hash/isHappy.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="266">
-          <caret line="14" column="35" lean-forward="true" selection-start-line="14" selection-start-column="35" selection-end-line="14" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="57">
-            <caret line="3" column="13" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/algorithm/array/sortColors.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1197">
-          <caret line="63" column="1" selection-start-line="63" selection-start-column="1" selection-end-line="63" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/algorithm/array/findKthLargest.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1197">
-          <caret line="63" column="17" selection-start-line="63" selection-start-column="17" selection-end-line="63" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/algorithm/array/merge.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1691">
-          <caret line="89" column="2" lean-forward="true" selection-start-line="89" selection-start-column="2" selection-end-line="89" selection-end-column="2" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="57">
-            <caret line="3" column="13" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/algorithm/array/sortColors.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1197">
@@ -558,13 +529,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="380">
           <caret line="20" column="36" selection-start-line="20" selection-start-column="36" selection-end-line="20" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/algorithm/array/minSubArrayLen.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="19">
-          <caret line="1" column="11" selection-start-line="1" selection-start-column="11" selection-end-line="1" selection-end-column="11" />
         </state>
       </provider>
     </entry>
@@ -711,15 +675,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/algorithm/linklist/detectCycle.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/algorithm/linklist/flatten.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1520">
@@ -738,9 +693,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="817">
           <caret line="49" column="23" selection-start-line="49" selection-start-column="23" selection-end-line="49" selection-end-column="23" />
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -748,16 +700,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="342">
           <caret line="19" column="17" selection-start-line="9" selection-start-column="4" selection-end-line="19" selection-end-column="17" />
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/algorithm/hash/singleNumber.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="551">
-          <caret line="29" column="1" selection-start-line="29" selection-start-column="1" selection-end-line="33" selection-end-column="13" />
         </state>
       </provider>
     </entry>
@@ -777,10 +719,69 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/algorithm/hash/twoSum.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="3" lean-forward="true" selection-start-column="3" selection-end-column="3" />
+        <state relative-caret-position="475">
+          <caret line="25" column="9" selection-start-line="25" selection-start-column="9" selection-end-line="25" selection-end-column="9" />
         </state>
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/algorithm/array/minSubArrayLen.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="19">
+          <caret line="1" column="11" selection-start-line="1" selection-start-column="11" selection-end-line="1" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/algorithm/hash/singleNumber.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="551">
+          <caret line="29" column="1" selection-start-line="29" selection-start-column="1" selection-end-line="33" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/algorithm/hash/FindRestaurant.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="12" column="8" selection-start-line="12" selection-start-column="8" selection-end-line="12" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/algorithm/hash/isIsomorphic.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="14" column="40" selection-start-line="14" selection-start-column="40" selection-end-line="14" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/algorithm/array/LongestWPI.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1197">
+          <caret line="63" column="2" selection-start-line="63" selection-start-column="2" selection-end-line="63" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/algorithm/hash/firstUniqstr.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="475">
+          <caret line="25" column="15" selection-start-line="25" selection-start-column="15" selection-end-line="25" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/algorithm/hash/intersect.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="57">
+          <caret line="3" column="36" selection-start-line="3" selection-start-column="36" selection-end-line="3" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/algorithm/hash/containsNearbyDuplicate.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="344">
+          <caret line="22" column="28" selection-start-line="22" selection-start-column="28" selection-end-line="22" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/algorithm/hash/groupAnagrams.js">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
   </component>
 </project>
