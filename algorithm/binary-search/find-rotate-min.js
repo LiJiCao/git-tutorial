@@ -27,6 +27,7 @@ var findMin = function (nums) {
 
     }
     return nums[l];
+<<<<<<< HEAD
 };
 
 
@@ -125,4 +126,6 @@ var findMinRepeat4 = (nums) => {
     }
 
     return nums[l];
+=======
+>>>>>>> origin/master
 };
